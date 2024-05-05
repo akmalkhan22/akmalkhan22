@@ -27,11 +27,9 @@
 
 <!-- -  at @<a href="afterflea.com" target="_blank">After-Flea</a>. -->
 <!-- Bio -->
-- 🥉 Hackathon winner **[@lablab](https://lablab.ai/event/unhallucinate-challenge-24-hours-fight/talented)**
 - 🔭 Currently working as MERN Stack Engineer.
-- 👨‍🏫 Moderator at <a href="https://icodeguru.weebly.com/" target="_blank">iCodeGuru</a>.
 - 🌱 Actively participating in coding competitions & hackathons.
-- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode]([https://leetcode.com/akmalkhan22/](https://leetcode.com/u/akmal_khan/))** in python.
+- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/u/akmal_khan/)** in python.
 - 🥅 2024 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me **akmalkhan.ak426@gmail.com**.
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.
@@ -60,7 +58,7 @@
 ### Languages
 <a href="https://github.com/akmalkhan22">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,php,cpp,python,json, yaml, ajax &perline=4" /> 
 </div>
 </a>
 
@@ -80,9 +78,9 @@
  ## Connect with me🤝:
 <div align="center">
     <a href="https://muhammad-arham.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-muhammad--arham.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/arhamansari12/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:arham96100@gmail.com"><img src="https://img.shields.io/badge/-arham96100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://leetcode.com/akmalkhan22" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="www.linkedin.com/in/akmal-khan-47bbb9286" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:akmalkhan.ak426@gmail.com"><img src="https://img.shields.io/badge/-arham96100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/akmal_khan/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
     <a href="https://lablab.ai/u/@Arhamansari" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
 </div>
 
