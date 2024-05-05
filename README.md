@@ -58,7 +58,7 @@
 ### Languages
 <a href="https://github.com/akmalkhan22">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,php,cpp,python,json, yaml, ajax &perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,php,cpp,python,json,yaml,ajax &perline=4" /> 
 </div>
 </a>
 
