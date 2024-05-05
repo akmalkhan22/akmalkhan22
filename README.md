@@ -11,9 +11,11 @@
 </p>
 
 ## About me🚀:
-Hello! I'm Muhammad Arham, a Mern Stack Engineer based in Pakistan👋.
-With a firm grip on the MERN stack🛡️. I am passionate about crafting seamless and innovative solutions that push the boundaries of web development.🤖
-I'm currently diving deep into the DSA. My passion lies in crafting exceptional user experiences, and I actively contribute to open-source projects. Let's collaborate and bring your visions to life! 💻
+👋 Hey there! I'm Akmal Khan, a versatile developer with a love for crafting sleek and efficient web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. With a solid foundation in Python and experience in machine learning, I enjoy exploring the intersection of software development and data science to create intelligent solutions.
+
+🛠️ Whether it's building responsive user interfaces, optimizing backend performance, or diving into the world of algorithms and data structures with Python, I thrive on challenges that push the boundaries of what's possible. From concept to deployment, I'm dedicated to delivering high-quality, scalable software that makes a difference.
+
+💡 Let's collaborate and bring your ideas to life! Feel free to explore my repositories and reach out for exciting opportunities in web development, Python projects, or machine learning endeavors
 
 
 #
@@ -29,9 +31,9 @@ I'm currently diving deep into the DSA. My passion lies in crafting exceptional 
 - 🔭 Currently working as MERN Stack Engineer.
 - 👨‍🏫 Moderator at <a href="https://icodeguru.weebly.com/" target="_blank">iCodeGuru</a>.
 - 🌱 Actively participating in coding competitions & hackathons.
-- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/akmalkhan22/)** in JAVA.
+- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode]([https://leetcode.com/akmalkhan22/](https://leetcode.com/u/akmal_khan/))** in python.
 - 🥅 2024 Goals: Contribute more to Open Source projects.
-- 📫 How to reach me **arham96100@gmail.com**.
+- 📫 How to reach me **akmalkhan.ak426@gmail.com**.
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.
 
 #
