@@ -6,12 +6,12 @@
 
 <p align="center">
     <a href="https://github.com/akmalkhan22">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Programmer;I%20am%20a%20MERN%20Stack%20Developer;Python%20Developer;Machine%20Learning%20Engineer;Love%20to%20code;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=300">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Programmer;I%20am%20a%20MERN%20Stack%20Developer;PHP%20LARAVEL%20Developer;Python%20Developer;Machine%20Learning%20Engineer;Love%20to%20code;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=300">
     </a>
 </p>
 
 ## About me🚀:
-👋 Hey there! I'm Akmal Khan, a versatile developer with a love for crafting sleek and efficient web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. With a solid foundation in Python and experience in machine learning, I enjoy exploring the intersection of software development and data science to create intelligent solutions.
+👋 Hey there! I'm Akmal Khan, a versatile developer with a love for crafting sleek and efficient web applications using the php,laravel MERN (MongoDB, Express.js, React.js, Node.js) stack. With a solid foundation in Python and experience in machine learning, I enjoy exploring the intersection of software development and data science to create intelligent solutions.
 
 🛠️ Whether it's building responsive user interfaces, optimizing backend performance, or diving into the world of algorithms and data structures with Python, I thrive on challenges that push the boundaries of what's possible. From concept to deployment, I'm dedicated to delivering high-quality, scalable software that makes a difference.
 
@@ -27,7 +27,7 @@
 
 <!-- -  at @<a href="afterflea.com" target="_blank">After-Flea</a>. -->
 <!-- Bio -->
-- 🔭 Currently working as MERN Stack Engineer.
+- 🔭 Currently working as software Engineer.
 - 🌱 Actively participating in coding competitions & hackathons.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/u/akmal_khan/)** in python.
 - 🥅 2024 Goals: Contribute more to Open Source projects.
